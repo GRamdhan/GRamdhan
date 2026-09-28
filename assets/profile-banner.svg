@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Ganesh Ramdhan — ICT portfolio</title><desc id="desc">Cybersecurity, software and data. HBO-ICT at HvA. Curious about systems. Focused on people.</desc>
+<title id="title">Ganesh Ramdhan — IT-portfolio</title><desc id="desc">Data, development en cybersecurity. HBO-ICT aan de HvA. Begrijpen hoe het werkt. Bouwen aan wat helpt.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102b36"/><stop offset="1" stop-color="#153d49"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#71cbd0" stroke-opacity=".06"/></pattern></defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
 <path d="M920 0L560 360H690L1050 0Z" fill="#56c5cb" opacity=".035"/>
 <g fill="none" stroke="#56c5cb" stroke-width="1.5" opacity=".35"><path d="M890 85H1020L1090 155V255H960L890 185Z"/><path d="M940 120H1050V220H940Z"/><path d="M890 85L940 120M1090 155L1050 120M1090 255L1050 220M890 185L940 220"/></g>
 <g fill="#56c5cb"><circle cx="890" cy="85" r="5"/><circle cx="1090" cy="155" r="5"/><circle cx="960" cy="255" r="5"/></g>
 <rect x="54" y="51" width="36" height="4" rx="2" fill="#57d0cf"/>
-<text x="104" y="59" fill="#91d6db" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">LEARNING. BUILDING. CONNECTING.</text>
+<text x="104" y="59" fill="#91d6db" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">LEREN. BOUWEN. BEGRIJPEN.</text>
 <text x="54" y="139" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="700">Ganesh Ramdhan</text>
-<text x="56" y="184" fill="#c8e0e6" font-family="Segoe UI,Arial,sans-serif" font-size="23">Cybersecurity · Software · Data</text>
-<text x="56" y="235" fill="#91abb5" font-family="Segoe UI,Arial,sans-serif" font-size="19">Curious about systems. Focused on people.</text>
+<text x="56" y="184" fill="#c8e0e6" font-family="Segoe UI,Arial,sans-serif" font-size="23">Data · Development · Cybersecurity</text>
+<text x="56" y="235" fill="#91abb5" font-family="Segoe UI,Arial,sans-serif" font-size="19">Begrijpen hoe het werkt. Bouwen aan wat helpt.</text>
 <line x1="56" y1="271" x2="1144" y2="271" stroke="#355562"/>
 <text x="56" y="314" fill="#d5e8ec" font-family="Segoe UI,Arial,sans-serif" font-size="16">HBO-ICT @ HvA</text>
 <text x="286" y="314" fill="#91d6db" font-family="Segoe UI,Arial,sans-serif" font-size="16">Propedeuse cum laude</text>
