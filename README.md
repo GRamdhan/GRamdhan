@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>HBO-ICT student · Career switcher into IT · Customer-focused problem solver</strong><br />
+  <strong>HBO-ICT student · Business Intelligence · Development · Cybersecurity</strong><br />
   Amstelveen / Amsterdam · Available 16–24 hours per week, with room to discuss more
 </p>
 
@@ -21,7 +21,7 @@ I like understanding how things work and helping people move forward. That curio
 
 At **APG**, I work as a **Pensioenexpert KCC**, translating complex pension questions into clear explanations. In my studies and personal projects, I bring that same care to software, data and secure systems.
 
-**I'm looking for a working-student or junior opportunity in cybersecurity, software/data or IT support and consultancy.**
+**Open to junior roles in Business Intelligence, software development or cybersecurity, and working-student opportunities in IT.**
 
 ## Selected projects
 
@@ -68,6 +68,15 @@ At **APG**, I work as a **Pensioenexpert KCC**, translating complex pension ques
 
 </details>
 
+## Data & Business Intelligence
+
+My HvA coursework also includes two data-focused projects:
+
+- **WannaBike BI** — SQL databases, Power BI dashboards and DAX calculations addressing eleven user stories.
+- **Airbnb analysis** — data cleaning, analysis and visualisation with Python, pandas and seaborn in Jupyter, translated into advice.
+
+These projects form part of my study experience. Their source files are not yet published in this portfolio.
+
 ## Study & technical foundation
 
 | Area | Applied in my studies and projects |
@@ -75,7 +84,7 @@ At **APG**, I work as a **Pensioenexpert KCC**, translating complex pension ques
 | **Security & systems** | Linux, Raspberry Pi, networking, OWASP / ASVS; SSH hardening, Fail2ban, Pi-hole and Docker in my home lab |
 | **Software development** | HTML, CSS, JavaScript, React, Vue, Python, Git and GitLab |
 | **Data & business intelligence** | SQL, Power BI, DAX, Python, pandas, seaborn and Jupyter |
-| **Service & collaboration** | ITIL Foundation certification; customer communication at APG; Scrum Master responsibilities in a study project |
+| **Analysis & collaboration** | ITIL Foundation certification; customer communication at APG; Scrum Master responsibilities in a study project |
 
 <details>
 <summary><strong>Explore my HvA study projects</strong></summary>
