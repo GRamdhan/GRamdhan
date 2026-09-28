@@ -1,112 +1,114 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Ganesh Ramdhan — Cybersecurity, Software & Data. HBO-ICT at HvA; propedeuse cum laude. Curious about systems. Focused on people." />
+  <img src="assets/profile-banner.svg" width="100%" alt="Ganesh Ramdhan — Data, development en cybersecurity. HBO-ICT aan de HvA. Propedeuse cum laude." />
 </p>
 
 <p align="center">
-  <strong>HBO-ICT student · Business Intelligence · Development · Cybersecurity</strong><br />
-  Amstelveen / Amsterdam · Available 16–24 hours per week, with room to discuss more
+  <strong>HBO-ICT-student · Op weg naar een baan in IT</strong><br />
+  Amstelveen / Amsterdam · Beschikbaar voor 16–24 uur per week, uitbreiding bespreekbaar
 </p>
 
 <p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
-  <a href="#study--technical-foundation">Study & skills</a> &nbsp; / &nbsp;
-  <a href="#lets-connect">Let's connect</a>
+  <a href="#mijn-projecten">Mijn projecten</a> &nbsp; / &nbsp;
+  <a href="#data-en-business-intelligence">Data & BI</a> &nbsp; / &nbsp;
+  <a href="#wat-ik-meebreng">Wat ik meebreng</a>
 </p>
 
 ---
 
-### Hi, I'm Ganesh
+### Hoi, ik ben Ganesh
 
-I like understanding how things work and helping people move forward. That curiosity took me from customer-facing roles to **Front-end Development at Winc Academy** and **HBO-ICT at the Hogeschool van Amsterdam**, where I chose **Cyber Security** and completed my propedeuse **cum laude in 2026**.
+Ik begrijp graag hoe iets werkt en help anderen op weg. Die nieuwsgierigheid bracht me via Winc Academy naar de deeltijdopleiding **HBO-ICT aan de Hogeschool van Amsterdam**. Daar heb ik gekozen voor **Cyber Security**. In 2026 haalde ik mijn **propedeuse cum laude**.
 
-At **APG**, I work as a **Pensioenexpert KCC**, translating complex pension questions into clear explanations. In my studies and personal projects, I bring that same care to software, data and secure systems.
+Naast mijn studie werk ik als **Pensioenexpert KCC bij APG**. Ik zoek complexe vragen uit en leg de uitkomst begrijpelijk uit. Die combinatie van uitzoeken, analyseren en uitleggen wil ik ook in mijn IT-werk gebruiken.
 
-**Open to junior roles in Business Intelligence, software development or cybersecurity, and working-student opportunities in IT.**
+**Ik zoek een juniorfunctie in BI, development of security, of een werkstudentfunctie in IT.** Ik wil mijn kennis in de praktijk gebruiken en verder leren in een team.
 
-## Selected projects
+## Mijn projecten
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 / Security & infrastructure</h3>
-<h4><a href="https://github.com/GRamdhan/homelab">Raspberry Pi Home Lab ↗</a></h4>
-<p>A personal lab for Linux administration, network security and service monitoring, with configuration examples and an incident write-up.</p>
+<h3>01 / Security en netwerken</h3>
+<h4><a href="https://github.com/GRamdhan/homelab">Raspberry Pi-homelab ↗</a></h4>
+<p>Mijn eigen oefenomgeving voor Linux, netwerkbeveiliging en monitoring. Ik leg vast hoe ik diensten instel, problemen onderzoek en oplossingen toepas.</p>
 <p><code>Linux</code> <code>Docker</code> <code>SSH</code> <code>DNS</code></p>
-<p><a href="https://github.com/GRamdhan/homelab/blob/main/docs/incidents/INC-001-pihole-allowlist.md">Read the incident write-up →</a></p>
+<p><a href="https://github.com/GRamdhan/homelab/blob/main/docs/incidents/INC-001-pihole-allowlist.md">Bekijk een opgelost probleem →</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>02 / Application development</h3>
-<h4><a href="https://github.com/GRamdhan/DTT_Assessment">DTT House Listings ↗</a></h4>
-<p>A house-listing application built for a front-end assessment. Explore the Vue application, REST API integration and lessons about API-key handling.</p>
+<h3>02 / Webontwikkeling</h3>
+<h4><a href="https://github.com/GRamdhan/DTT_Assessment">Woningapp voor DTT ↗</a></h4>
+<p>Een webapp voor een assessment. Met Vue en een REST API werkte ik aan het bekijken en beheren van woningen. Ik beschrijf ook wat ik leerde over API-sleutels.</p>
 <p><code>Vue 3</code> <code>Vuex</code> <code>REST API</code></p>
-<p><a href="https://github.com/GRamdhan/DTT_Assessment#readme">Explore the project →</a></p>
+<p><a href="https://github.com/GRamdhan/DTT_Assessment#readme">Bekijk het project →</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>03 / React & API integration</h3>
-<h4><a href="https://github.com/GRamdhan/Eindopdracht-JS-advanced">Events App ↗</a></h4>
-<p>Advanced JavaScript coursework: an events interface using React and a mock REST backend. The README documents features and known limitations.</p>
+<h3>03 / React en data ophalen</h3>
+<h4><a href="https://github.com/GRamdhan/Eindopdracht-JS-advanced">Evenementenapp ↗</a></h4>
+<p>Een eindopdracht van Winc Academy. Een app met React en een test-API voor evenementen. In de README staat wat de app kan en wat nog beter kan.</p>
 <p><code>React</code> <code>Chakra UI</code> <code>JSON Server</code></p>
-<p><a href="https://github.com/GRamdhan/Eindopdracht-JS-advanced#readme">Explore the project →</a></p>
+<p><a href="https://github.com/GRamdhan/Eindopdracht-JS-advanced#readme">Bekijk het project →</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>04 / Components & state</h3>
-<h4><a href="https://github.com/GRamdhan/Eindopdracht-JS-basisc">Recipe Browser ↗</a></h4>
-<p>A React coursework project with recipe search, dietary labels and detail views. Built around reusable components, props and state.</p>
+<h3>04 / Zoeken en weergeven</h3>
+<h4><a href="https://github.com/GRamdhan/Eindopdracht-JS-basisc">Receptenapp ↗</a></h4>
+<p>Een React-app om recepten te zoeken en te bekijken. Ik oefende met herbruikbare onderdelen, het doorgeven van gegevens en het bijhouden van keuzes.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Chakra UI</code></p>
-<p><a href="https://github.com/GRamdhan/Eindopdracht-JS-basisc#readme">Explore the project →</a></p>
+<p><a href="https://github.com/GRamdhan/Eindopdracht-JS-basisc#readme">Bekijk het project →</a></p>
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>Earlier work · HTML & CSS foundations</strong></summary>
+<summary><strong>Eerder werk · De basis met HTML en CSS</strong></summary>
 <br />
 
-[**Organic Coffee**](https://github.com/GRamdhan/Winc-Academy_Front-end_Hackathon) — a multi-page website for a fictional coffee brand, built during a Winc Academy hackathon with HTML and CSS.
+[**Organic Coffee**](https://github.com/GRamdhan/Winc-Academy_Front-end_Hackathon) — een website met meerdere pagina's voor een bedacht koffiemerk. Gemaakt met HTML en CSS tijdens een hackathon van Winc Academy.
 
 </details>
 
-## Data & Business Intelligence
+## Data en Business Intelligence
 
-My HvA coursework also includes two data-focused projects:
+Tijdens mijn opleiding merkte ik dat ik data-analyse ook interessant vind. Ik wil begrijpen wat gegevens betekenen en hoe je daar bruikbare informatie van maakt.
 
-- **WannaBike BI** — SQL databases, Power BI dashboards and DAX calculations addressing eleven user stories.
-- **Airbnb analysis** — data cleaning, analysis and visualisation with Python, pandas and seaborn in Jupyter, translated into advice.
-
-These projects form part of my study experience. Their source files are not yet published in this portfolio.
-
-## Study & technical foundation
-
-| Area | Applied in my studies and projects |
+| Studieproject | Wat ik heb gedaan |
 | :--- | :--- |
-| **Security & systems** | Linux, Raspberry Pi, networking, OWASP / ASVS; SSH hardening, Fail2ban, Pi-hole and Docker in my home lab |
-| **Software development** | HTML, CSS, JavaScript, React, Vue, Python, Git and GitLab |
-| **Data & business intelligence** | SQL, Power BI, DAX, Python, pandas, seaborn and Jupyter |
-| **Analysis & collaboration** | ITIL Foundation certification; customer communication at APG; Scrum Master responsibilities in a study project |
+| **WannaBike · Business Intelligence** | Elf gebruikersvragen uitgewerkt met SQL-databases, Power BI-dashboards en DAX-berekeningen. |
+| **Airbnb · Data-analyse** | Gegevens opgeschoond, onderzocht en in grafieken gezet met Python, pandas en seaborn. De resultaten verwerkt in een Jupyter Notebook en vertaald naar advies. |
+
+Deze projecten zijn onderdeel van mijn studie. De bestanden staan nog niet openbaar op dit profiel.
+
+## Wat ik meebreng
+
+| Onderdeel | Mijn basis |
+| :--- | :--- |
+| **Data en analyse** | SQL · Power BI · DAX · Python · pandas · seaborn · Jupyter |
+| **Webontwikkeling** | HTML · CSS · JavaScript · React · Vue · Python · Git · GitLab |
+| **Systemen en security** | Linux · Raspberry Pi · netwerken · OWASP / ASVS · Docker · SSH · Pi-hole · Fail2ban |
+| **Samenwerken en uitleggen** | Complexe vragen uitzoeken bij APG, duidelijke uitleg geven en als Scrum Master de planning en taakverdeling begeleiden in een studieproject. |
+
+### Opleiding en certificaat
+
+- **HBO-ICT, Hogeschool van Amsterdam** — deeltijd, richting Cyber Security. Propedeuse cum laude behaald in 2026.
+- **Front-end Development, Winc Academy** — opleiding afgerond en certificaat behaald.
+- **ITIL Foundation** — certificaat in IT Service Management.
 
 <details>
-<summary><strong>Explore my HvA study projects</strong></summary>
+<summary><strong>Meer over mijn technische studieprojecten</strong></summary>
 <br />
 
-- **Web development & Secure App** — front-end and back-end development including Python, security advice using ASVS, and planning and task coordination as Scrum Master.
-- **Linux, networks & AI** — a Raspberry Pi network with a web server, database, DNS and a local AI server.
-- **Business Intelligence** — SQL databases, Power BI dashboards and DAX calculations addressing eleven WannaBike user stories.
-- **Airbnb data analysis** — cleaning, analysing and visualising data in a Jupyter notebook with Python, pandas and seaborn, then translating the findings into advice.
-
-These projects describe my study experience; their source files are not currently included in this public GitHub portfolio.
+- **Webontwikkeling en Secure App:** front-end en back-end ontwikkeld met onder andere Python. Beveiligingsadvies uitgewerkt met ASVS. Als Scrum Master de planning en taakverdeling begeleid.
+- **Linux, netwerken en AI:** met mijn team een netwerk op Raspberry Pi's ingericht met een webserver, database, DNS en een lokale AI-server.
 
 </details>
 
-### What I'm exploring next
+### Waar ik verder in wil groeien
 
-Centralised logging and incident response, WireGuard remote access, and self-hosted password management. Follow the [home lab roadmap](https://github.com/GRamdhan/homelab#roadmap) for completed and planned work.
+Ik wil sterker worden in **BI en data-analyse, softwareontwikkeling en cybersecurity**. In mijn homelab werk ik verder aan het verzamelen van logs, het onderzoeken van incidenten en veilige toegang op afstand. Mijn [homelab-planning](https://github.com/GRamdhan/homelab#roadmap) laat zien wat klaar is en wat ik nog wil doen.
 
-## Let's connect
+---
 
-Interested in someone who combines **technical curiosity, careful analysis and clear communication**? I'm looking to put my HBO-ICT studies into practice in a team where I can contribute and keep learning.
+**Een passende junior- of werkstudentfunctie?** Ik vertel graag meer over mijn projecten en wat ik wil leren.
 
-**Languages:** Dutch (native) · English (fluent) · French (basic)
-
-<p align="center"><sub>Built through study, practical projects and a continuing curiosity about how systems work.</sub></p>
+*Nederlands: moedertaal · Engels: vloeiend · Frans: basiskennis*
