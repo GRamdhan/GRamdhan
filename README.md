@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg?v=nl1" width="100%" alt="Ganesh Ramdhan — Data, development en cybersecurity. HBO-ICT aan de HvA. Propedeuse cum laude." />
+  <img src="https://raw.githubusercontent.com/GRamdhan/GRamdhan/1c255876cdf50a55a92832640409437308b1effe/assets/profile-banner.svg" width="100%" alt="Ganesh Ramdhan — Data, development en cybersecurity. HBO-ICT aan de HvA. Propedeuse cum laude." />
 </p>
 
 <p align="center">
