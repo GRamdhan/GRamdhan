@@ -1,57 +1,103 @@
-# Hi, I'm Ganesh (G) Ramdhan
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Ganesh Ramdhan — Cybersecurity, Software & Data. HBO-ICT at HvA; propedeuse cum laude. Curious about systems. Focused on people." />
+</p>
 
-**Cyber Security student at the Amsterdam University of Applied Sciences (HvA), looking for a part-time junior SOC / IT support role in the Amsterdam area.**
+<p align="center">
+  <strong>HBO-ICT student · Career switcher into IT · Customer-focused problem solver</strong><br />
+  Amstelveen / Amsterdam · Available 16–24 hours per week, with room to discuss more
+</p>
 
-I practise Linux administration, network security and monitoring in a Raspberry Pi home lab. In my work as a Service & Customer Support Specialist at [APG](https://www.apg.nl), I explain complex topics clearly, follow processes and stay calm under pressure.
-
-## Start here: security & infrastructure
-
-My [**Raspberry Pi 5 home lab**](https://github.com/GRamdhan/homelab) is the main project in this portfolio. It documents service configuration, hardening and troubleshooting alongside my studies.
-
-| Explore | Evidence |
-|---|---|
-| [Lab overview](https://github.com/GRamdhan/homelab#architecture) | Architecture, services and roadmap |
-| [SSH hardening](https://github.com/GRamdhan/homelab/blob/main/docs/ssh-hardening.md) | Key-based administration and SSH configuration |
-| [Fail2ban](https://github.com/GRamdhan/homelab/blob/main/docs/fail2ban.md) | Protection against repeated failed SSH logins |
-| [Monitoring](https://github.com/GRamdhan/homelab/blob/main/docs/monitoring.md) | Docker and Uptime Kuma |
-| [Network segmentation](https://github.com/GRamdhan/homelab/blob/main/docs/network-segmentation.md) | Separating IoT devices from the trusted network |
-| [Incident write-up: Pi-hole blocklists](https://github.com/GRamdhan/homelab/blob/main/docs/incidents/INC-001-pihole-allowlist.md) | Troubleshooting, root cause, resolution and lessons learned |
-
-These are personal lab exercises and documentation. Planned additions are listed separately in the [lab roadmap](https://github.com/GRamdhan/homelab#roadmap).
-
-## Additional projects: web development
-
-Projects from my front-end training and an assessment show my programming background.
-
-| Project | Focus |
-|---|---|
-| [DTT House Listings](https://github.com/GRamdhan/DTT_Assessment) | Vue 3, Vuex, REST API integration; README includes lessons about API-key handling |
-| [Events App](https://github.com/GRamdhan/Eindopdracht-JS-advanced) | React, Chakra UI and a JSON REST backend; known limitations are documented in the README |
-| [Recipe Browser](https://github.com/GRamdhan/Eindopdracht-JS-basisc) | React components, state, recipe search and detail views |
-| [Organic Coffee](https://github.com/GRamdhan/Winc-Academy_Front-end_Hackathon) | Multi-page HTML/CSS website from a Winc Academy hackathon |
-
-## Background
-
-- **HBO-ICT (part-time), Hogeschool van Amsterdam**, specialising in **Cyber Security**.
-- First year (propedeuse) completed **cum laude**, with an **8.0 average**.
-- **Service & Customer Support Specialist at APG**, a Dutch pension provider.
-
-### Study highlights
-
-- **Project Secure App:** built a networked system with my team on four Raspberry Pis: an LLM server (running on my Pi), a web server, a database and DNS.
-- **Data Science:** analysed the Amsterdam Airbnb market using Python and pandas in a Jupyter notebook.
-- **Power BI:** built finance and operations dashboards with DAX measures.
-
-## Skills & learning
-
-**Security & infrastructure:** Linux (Raspberry Pi OS / Debian), SSH hardening, Fail2ban, Pi-hole / DNS, network segmentation, Docker and Uptime Kuma.
-
-**Lab exposure:** Kali Linux and Metasploit in a Metasploitable2 lab.
-
-**Programming & data:** Python (pandas, Seaborn, Jupyter), JavaScript, React, Vue 3, HTML/CSS/SCSS and Power BI / DAX.
-
-**Currently learning:** SOC fundamentals (logging, detection and incident response), WireGuard VPN, and self-hosted password management with Vaultwarden behind Caddy/HTTPS.
+<p align="center">
+  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
+  <a href="#study--technical-foundation">Study & skills</a> &nbsp; / &nbsp;
+  <a href="#lets-connect">Let's connect</a>
+</p>
 
 ---
 
-*Nederlandstalig · English — happy to talk in either language.*
+### Hi, I'm Ganesh
+
+I like understanding how things work and helping people move forward. That curiosity took me from customer-facing roles to **Front-end Development at Winc Academy** and **HBO-ICT at the Hogeschool van Amsterdam**, where I chose **Cyber Security** and completed my propedeuse **cum laude in 2026**.
+
+At **APG**, I work as a **Pensioenexpert KCC**, translating complex pension questions into clear explanations. In my studies and personal projects, I bring that same care to software, data and secure systems.
+
+**I'm looking for a working-student or junior opportunity in cybersecurity, software/data or IT support and consultancy.**
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / Security & infrastructure</h3>
+<h4><a href="https://github.com/GRamdhan/homelab">Raspberry Pi Home Lab ↗</a></h4>
+<p>A personal lab for Linux administration, network security and service monitoring, with configuration examples and an incident write-up.</p>
+<p><code>Linux</code> <code>Docker</code> <code>SSH</code> <code>DNS</code></p>
+<p><a href="https://github.com/GRamdhan/homelab/blob/main/docs/incidents/INC-001-pihole-allowlist.md">Read the incident write-up →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / Application development</h3>
+<h4><a href="https://github.com/GRamdhan/DTT_Assessment">DTT House Listings ↗</a></h4>
+<p>A house-listing application built for a front-end assessment. Explore the Vue application, REST API integration and lessons about API-key handling.</p>
+<p><code>Vue 3</code> <code>Vuex</code> <code>REST API</code></p>
+<p><a href="https://github.com/GRamdhan/DTT_Assessment#readme">Explore the project →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / React & API integration</h3>
+<h4><a href="https://github.com/GRamdhan/Eindopdracht-JS-advanced">Events App ↗</a></h4>
+<p>Advanced JavaScript coursework: an events interface using React and a mock REST backend. The README documents features and known limitations.</p>
+<p><code>React</code> <code>Chakra UI</code> <code>JSON Server</code></p>
+<p><a href="https://github.com/GRamdhan/Eindopdracht-JS-advanced#readme">Explore the project →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Components & state</h3>
+<h4><a href="https://github.com/GRamdhan/Eindopdracht-JS-basisc">Recipe Browser ↗</a></h4>
+<p>A React coursework project with recipe search, dietary labels and detail views. Built around reusable components, props and state.</p>
+<p><code>React</code> <code>JavaScript</code> <code>Chakra UI</code></p>
+<p><a href="https://github.com/GRamdhan/Eindopdracht-JS-basisc#readme">Explore the project →</a></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Earlier work · HTML & CSS foundations</strong></summary>
+<br />
+
+[**Organic Coffee**](https://github.com/GRamdhan/Winc-Academy_Front-end_Hackathon) — a multi-page website for a fictional coffee brand, built during a Winc Academy hackathon with HTML and CSS.
+
+</details>
+
+## Study & technical foundation
+
+| Area | Applied in my studies and projects |
+| :--- | :--- |
+| **Security & systems** | Linux, Raspberry Pi, networking, OWASP / ASVS; SSH hardening, Fail2ban, Pi-hole and Docker in my home lab |
+| **Software development** | HTML, CSS, JavaScript, React, Vue, Python, Git and GitLab |
+| **Data & business intelligence** | SQL, Power BI, DAX, Python, pandas, seaborn and Jupyter |
+| **Service & collaboration** | ITIL Foundation certification; customer communication at APG; Scrum Master responsibilities in a study project |
+
+<details>
+<summary><strong>Explore my HvA study projects</strong></summary>
+<br />
+
+- **Web development & Secure App** — front-end and back-end development including Python, security advice using ASVS, and planning and task coordination as Scrum Master.
+- **Linux, networks & AI** — a Raspberry Pi network with a web server, database, DNS and a local AI server.
+- **Business Intelligence** — SQL databases, Power BI dashboards and DAX calculations addressing eleven WannaBike user stories.
+- **Airbnb data analysis** — cleaning, analysing and visualising data in a Jupyter notebook with Python, pandas and seaborn, then translating the findings into advice.
+
+These projects describe my study experience; their source files are not currently included in this public GitHub portfolio.
+
+</details>
+
+### What I'm exploring next
+
+Centralised logging and incident response, WireGuard remote access, and self-hosted password management. Follow the [home lab roadmap](https://github.com/GRamdhan/homelab#roadmap) for completed and planned work.
+
+## Let's connect
+
+Interested in someone who combines **technical curiosity, careful analysis and clear communication**? I'm looking to put my HBO-ICT studies into practice in a team where I can contribute and keep learning.
+
+**Languages:** Dutch (native) · English (fluent) · French (basic)
+
+<p align="center"><sub>Built through study, practical projects and a continuing curiosity about how systems work.</sub></p>
